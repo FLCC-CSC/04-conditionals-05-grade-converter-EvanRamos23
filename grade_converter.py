@@ -1,8 +1,8 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Evan Ramos
+# DATE: February 28, 2026
+# BRIEF DESCRIPTION: Writing a grade converting solution 
 
 
 
@@ -84,6 +84,7 @@ D
 
 1. What is something you would tell a future student to be careful about when
    doing this lab?
+I would mention to be careful about is the order of your if statements. If you put them in the wrong order, you could accidentally give someone the wrong grade.
 
 
 
